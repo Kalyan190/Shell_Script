@@ -1,0 +1,27 @@
+1. command:: read -p == use for read input same line
+2. command:: read -a == use for array
+echo 
+comparision command
+-eq - equal to
+-ne - not equal to
+-gt - greater than
+-ge - greater than equal to
+-lt - less than 
+cat <<w>>point.txt
+echo 
+comparision command
+-eq - equal to
+-ne - not equal to
+-gt - greater than
+-ge - greater than equal to
+-lt - less than 
+-le - less than or equal to 
+::check exit file 
+  -e check file exit or not 
+  -f check file exit or not for regular use
+  -d check directory exit or not
+ -s check file empty or not
+ -w file write permission check
+ -r file read permission check
+ w
+
